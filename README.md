@@ -4,7 +4,7 @@ This project is a simple application that fetches random user information from a
 
 ## Demo
 
-Check out the live demo [here](#).
+![Project Demo](./Demo.gif)
 
 ## Features
 
